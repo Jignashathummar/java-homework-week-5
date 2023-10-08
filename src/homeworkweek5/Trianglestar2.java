@@ -1,4 +1,4 @@
-package homeworkweek6;
+package homeworkweek5;
 
 public class Trianglestar2 {
 
